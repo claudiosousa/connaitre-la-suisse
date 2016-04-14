@@ -17,7 +17,7 @@ angular.module('testApp', ['ngResource']).controller('appController',
     function ($scope, $resource, $timeout) {
         $scope.MODE = MODE;
 
-        var rsc = $resource('../questions.json');
+        var rsc = $resource('questions.json');
         var list = rsc.query(function () {
             shuffle(list);
             list.forEach(l=> shuffle(l.choices));
