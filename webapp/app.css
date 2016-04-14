@@ -1,0 +1,75 @@
+
+body{
+    margin:0;
+}
+.q-container{
+    display : flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+ position: relative;
+}
+.q{
+    padding:5px;
+    padding-bottom:0;
+    border:1px solid black;
+    width:48%;
+    margin-top:5px;
+    height:151.35px;       
+    position: relative;
+        page-break-inside: avoid;
+         display : flex;
+         flex-direction: column;
+}
+.q[empty=true]{
+    visibility:hidden;
+}
+.q *{
+    z-index:1;
+}
+.q .q-type{
+     position:absolute;
+   top: calc(50% - 80px);
+    left: calc(50% - 80px);
+    z-index: 0;
+    opacity: 0.1;
+        font-size: 10em;
+         color:red;
+}
+
+[answers="true"] .q .q-type{
+    color: green;
+}
+
+[mode="quiz"] .q .q-type{
+    display: none;
+}
+.q:nth-of-type(1),.q:nth-of-type(2){
+   margin-top:0;
+ }
+
+.q-choices{
+     margin-top:5px;
+         display : flex;
+         flex-direction: column;
+    flex-wrap:wrap;
+}
+.q-choice {
+    
+    min-width:30%;
+      align-self:flex-start;
+    display:inline-block;
+         margin-top:2px;         
+}
+
+.q-choice i:before{
+    content: "\f10c";
+}
+.q-choice[q-type="multipleresponse"] i:before {
+    content: "\f096";
+}
+[answers="true"] .q-choice[status="correct"] i:before {
+        content: "\f05d";
+}
+[answers="true"] .q-choice[q-type="multipleresponse"][status="correct"] i:before {
+    content: "\f046";
+}

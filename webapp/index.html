@@ -1,0 +1,24 @@
+<html ng-app="testApp">
+
+<head>
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="app.js"></script>
+    <link rel="stylesheet" type="text/css" href="app.css">
+    <link rel="stylesheet" href="bower_components/components-font-awesome/css/font-awesome.min.css">
+</head>
+
+<body ng-controller="appController" mode={{MODE}}>
+    <div class="q-container">
+        <div class="q" ng-repeat="question in list" answers={{question.showAnswers}} empty={{question.empty}}>
+            <i class="fa fa-plus-square q-type"></i>
+            <span>{{question.text}}</span>
+            <div class="q-choices">
+                <span class="q-choice" q-type="{{question.type}}" status="{{choice.status}}" ng-repeat="choice in question.choices">
+                    <i class="fa"></i>  {{choice.text}}
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
