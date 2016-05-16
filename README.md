@@ -5,12 +5,13 @@
 
 This project generates a web page listing al the questions and answers used for the Swiss Naturalisation test.
 
-Original app here: https://www.ge.ch/connaitre-la-suisse/quiz/story.html
+## Demo:
+
+Here is the [Demo](http://claudio.sousa.gitlab.io/connaitre-la-suisse/)
 
 ---
 
-## Demo:
+#### Original app 
+Based on the [official](https://www.ge.ch/connaitre-la-suisse/quiz/story.html) app
 
-The webapp is can be viwed here :
 
-http://claudio.sousa.gitlab.io/connaitre-la-suisse/
