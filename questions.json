@@ -1,0 +1,2657 @@
+[
+	{
+		"text": "En Suisse, Guillaume Tell est représenté par des statues ainsi que sur des peintures et des timbres.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6BC4LIg83i8",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5o5hcdM29zA",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Restauration genevoise marque le retour de la République après la fin de l’occupation révolutionnaire, puis napoléonienne. Elle se fête le 31 décembre sur la Treille.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5htI9CPlCCf",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "63ZSG5I5FoS",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Selon la tradition, quels sont les 3 cantons qui ont fondé la Suisse ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6PesMW7jm3m",
+				"text": "Uri, Schwytz et Unterwald ",
+				"status": "correct"
+			},
+			{
+				"id": "6YBRihe2V1W",
+				"text": "Berne, Bâle et Zurich ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6R0aEhfKcDF",
+				"text": "Uri, Winterthur et Neuchâtel ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Comment s’appelle le grand bateau à voile, construit en 1904 pour transporter des marchandises sur le Lac Léman ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6cOAMSLgJjf",
+				"text": "L’Eauvivienne",
+				"status": "incorrect"
+			},
+			{
+				"id": "6dLfk8GIGjj",
+				"text": "La Neptune",
+				"status": "correct"
+			},
+			{
+				"id": "6P6edIKI40C",
+				"text": "La Mouette",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelle guerre civile (milieu du XIXe siècle) entre cantons conservateurs et cantons progressistes favorisera la création de la Suisse moderne ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "65i9Bqkwom0",
+				"text": "La guerre de Sécession",
+				"status": "incorrect"
+			},
+			{
+				"id": "6oUBiZL9uEt",
+				"text": "La guerre du Sonderbund",
+				"status": "correct"
+			},
+			{
+				"id": "6ek7N34ic8r",
+				"text": "La bataille de Sempach",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Parmi ces écrivains célèbres, lesquels ont habité à Genève ?  (plusieurs réponses) ",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "6poENE2GGks",
+				"text": "Rousseau",
+				"status": "correct"
+			},
+			{
+				"id": "6g66KpL8Dw3",
+				"text": "Voltaire",
+				"status": "correct"
+			},
+			{
+				"id": "6UFQQEwPIQP",
+				"text": "La Fontaine",
+				"status": "incorrect"
+			},
+			{
+				"id": "6V5xjISAZPj",
+				"text": "Montesquieu ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le Canton de Genève a été un des premiers à  accorder le droit de vote aux femmes. \nIl a été... ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6MFTiZudvPk",
+				"text": "Le 3e canton à le faire",
+				"status": "correct"
+			},
+			{
+				"id": "6CIfEI6fpMK",
+				"text": "Le 20e canton à le faire",
+				"status": "incorrect"
+			},
+			{
+				"id": "6DPubGaFrhh",
+				"text": "Le 1er canton à le faire",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Guillaume Tell est le héros suisse légendaire, souvent représenté avec une arbalète. ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6LhDGmohlYg",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6QLbcpMMavJ",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "On appelle Genève \"ville internationale\" parce que… ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "66Ds6kwiLDV",
+				"text": "Beaucoup d'étrangers y habitent",
+				"status": "incorrect"
+			},
+			{
+				"id": "6L75Ev87rQ2",
+				"text": "Genève est le siège mondial de nombreuses organisations internationales",
+				"status": "correct"
+			},
+			{
+				"id": "5sdGuqOrECO",
+				"text": "Les avions de l'aéroport de Cointrin vont aux quatre coins du monde",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La première mention de Genève apparaît dans un texte écrit par... ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6PRR1bDj6gw",
+				"text": "Le pasteur Jean Calvin  ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6lPAuEbXAYG",
+				"text": "Le roi Henri IV ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6BtF9yNeZUZ",
+				"text": "Jules César   ",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Quel pasteur français viendra à Genève en 1536 et rendra la ville célèbre ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6OIzR3QJ923",
+				"text": "Jean Calvin  ",
+				"status": "correct"
+			},
+			{
+				"id": "66ul7bg1Pxa",
+				"text": "Jean-Jacques Rousseau ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6XbN3FoF0Ys",
+				"text": "Guillaume Tell  ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Comment appelle-t-on parfois la ville de Genève ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6AE1OoUgYLw",
+				"text": "La Rome protestante ",
+				"status": "correct"
+			},
+			{
+				"id": "6N6dKjvktmP",
+				"text": "La Ville lumière ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6N7VJNZojlZ",
+				"text": "La Ville éternelle",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Les soldats du Duc de Savoie attaquèrent Genève durant la nuit du  11 décembre 1602. De quel événement s'agit-il ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5VCVeapzD9V",
+				"text": "L'Escalade",
+				"status": "correct"
+			},
+			{
+				"id": "5YKJh3iAadU",
+				"text": "La Réforme",
+				"status": "incorrect"
+			},
+			{
+				"id": "5sJkNyJdYB2",
+				"text": "La Révolution ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "En quelle année le canton de Genève entre-t-il dans la Confédération suisse (suite à l'entrée des troupes armées suisses au Port Noir) ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5msEMZk5MTO",
+				"text": "1815",
+				"status": "correct"
+			},
+			{
+				"id": "62jxIrJSFOA",
+				"text": "1291",
+				"status": "incorrect"
+			},
+			{
+				"id": "6HKbt5AxXBo",
+				"text": "1602",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quel événement a encouragé Henri Dunant à créer en 1864 ce qui sera la future Croix-Rouge ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6lDPYOIWXnj",
+				"text": "L'Escalade ",
+				"status": "incorrect"
+			},
+			{
+				"id": "5da6QhINgZh",
+				"text": "La bataille de Solferino ",
+				"status": "correct"
+			},
+			{
+				"id": "6MiDmiCGJK7",
+				"text": "La bataille du Sonderbund  ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Genève héberge la Croix-Rouge, mais aussi l'ONU et plusieurs sièges d'organisations internationales.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5vNhBrUePl9",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6Yp2xsxb7FP",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Avancée notable, les femmes suisses obtiennent le droit de vote fédéral en 1971.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6oNsUlA3itw",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "63IDcCJtNmc",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Suisse fait partie de l'Union Européenne.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6lACZgL1slY",
+				"text": "Vrai",
+				"status": "incorrect"
+			},
+			{
+				"id": "5n6dxGYlKdy",
+				"text": "Faux",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "La Suisse devient membre à part entière de l'ONU en 2002.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "68QkjIogX0H",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6ZBhcdc6tiT",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le plus ancien pacte de la Confédération ayant été retrouvé est celui signé en 1291 entre les cantons d'Uri, Schwytz et Unterwald.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6k5I2RTAFiZ",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6EkbrCDH7ix",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelle est la date très souvent considérée comme celle de la naissance de la Suisse ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6U4SazOGnGE",
+				"text": "1291",
+				"status": "correct"
+			},
+			{
+				"id": "5hZQikX5S3Z",
+				"text": "1603",
+				"status": "incorrect"
+			},
+			{
+				"id": "6BCoar0J6mr",
+				"text": "1484",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quel est le pasteur français - réformateur connu - qui a fait de Genève la « Rome protestante » ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6504UlCs4TC",
+				"text": "Jean Calvin ",
+				"status": "correct"
+			},
+			{
+				"id": "6MXCgRzevjo",
+				"text": "Roger Federer ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6aZhSZZYwJl",
+				"text": "Guillaume Tell  ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "A quelle date la Constitution fédérale, instituant Berne comme ville fédérale, est-elle entrée en vigueur? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "63vzX0ncYlp",
+				"text": "1602",
+				"status": "incorrect"
+			},
+			{
+				"id": "68AL2nPlMUv",
+				"text": "1848",
+				"status": "correct"
+			},
+			{
+				"id": "6caus4RqK43",
+				"text": "2000",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quel texte définit les droits et les devoirs de toute personne vivant en Suisse ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "65ZXacUjq4o",
+				"text": "Le pacte entre Uri, Schwytz et Unterwald  ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6WaMxvfeboV",
+				"text": "La Constitution fédérale ",
+				"status": "correct"
+			},
+			{
+				"id": "5ceeO1HFi2k",
+				"text": "Les Conventions de Genève",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Que fête-t-on à l’Escalade ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5vDxOykK6Zi",
+				"text": "Une tentative d’invasion de Genève",
+				"status": "correct"
+			},
+			{
+				"id": "5kHNkS8NoRM",
+				"text": "Une tentative d’escalade du Salève par les Genevois",
+				"status": "incorrect"
+			},
+			{
+				"id": "6l45mBVIwg0",
+				"text": "La fête des escaliers en musique",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Neutre par tradition, la Suisse n'a pas participé aux combats de la guerre mondiale de 1914-1918, ni à ceux de la guerre de 1939-1945.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5j6SnfONf4g",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5ZpKs7lRr5G",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelles lettres utilise-t-on (voiture, Internet, etc.) en référence à la Suisse, dont le nom latin est Confoederatio Helvetica ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "61qIDJ9x1D2",
+				"text": "CH ",
+				"status": "correct"
+			},
+			{
+				"id": "5fwPUskO4xa",
+				"text": "SUI",
+				"status": "incorrect"
+			},
+			{
+				"id": "5bLBWzlGBF8",
+				"text": "CONF ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le drapeau suisse est constitué… ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5sChqUbmoz7",
+				"text": "D'une croix blanche sur fond rouge",
+				"status": "correct"
+			},
+			{
+				"id": "6qDB7emzuIN",
+				"text": "D'une croix rouge sur fond blanc",
+				"status": "incorrect"
+			},
+			{
+				"id": "5lp20lubJgA",
+				"text": "D'un demi-aigle et d'une clé ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Combien d'habitants y a-t-il en Suisse ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "61VYk7YZWvs",
+				"text": "Plus de 8 millions ",
+				"status": "correct"
+			},
+			{
+				"id": "6ZfGUejDMDY",
+				"text": "Plus de 10 millions ",
+				"status": "incorrect"
+			},
+			{
+				"id": "5iM8jiThFhh",
+				"text": "Moins de 5 millions ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelles sont les 4 langues nationales en Suisse ? (4 réponses)",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "5kbVYi82bkp",
+				"text": "Français",
+				"status": "correct"
+			},
+			{
+				"id": "6ppcTfH19t4",
+				"text": "Allemand",
+				"status": "correct"
+			},
+			{
+				"id": "5yuNTCdKIeh",
+				"text": "Romanche ",
+				"status": "correct"
+			},
+			{
+				"id": "6TNHQJHtOsV",
+				"text": "Italien ",
+				"status": "correct"
+			},
+			{
+				"id": "5VRPtQDTV5N",
+				"text": "Suisse-allemand",
+				"status": "incorrect"
+			},
+			{
+				"id": "5fEkCntvnQg",
+				"text": "Flamand",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Environ quel pourcentage de résidents étrangers y a-t-il en Suisse ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "66o2MI9ioiA",
+				"text": "Plus de 50% ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6XoWXwdYnZn",
+				"text": "Plus de 20% ",
+				"status": "correct"
+			},
+			{
+				"id": "5usUR9sO8OA",
+				"text": "Moins de 10%",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Environ quel pourcentage de résidents étrangers y a-t-il dans le canton de Genève ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6VslzZzs05R",
+				"text": "40%",
+				"status": "correct"
+			},
+			{
+				"id": "5wEInUUjjyB",
+				"text": "22%",
+				"status": "incorrect"
+			},
+			{
+				"id": "6X4ck0JrJLk",
+				"text": "50%",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Combien y a-t-il environ de nationalités différentes dans le canton de Genève ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6Xsd4KssnEd",
+				"text": "180 nationalités",
+				"status": "correct"
+			},
+			{
+				"id": "6DMDxd7keMb",
+				"text": "140 nationalités",
+				"status": "incorrect"
+			},
+			{
+				"id": "6ohD2JvNLei",
+				"text": "80 nationalités",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelles sont les deux principales chaînes de montagnes qui traversent la Suisse ? \n(2 réponses)",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "5hrvjTbX3Rx",
+				"text": "Les Alpes",
+				"status": "correct"
+			},
+			{
+				"id": "6N24kGdhD9Z",
+				"text": "Le Jura ",
+				"status": "correct"
+			},
+			{
+				"id": "5am0nE4DrLv",
+				"text": "Les Pyrénées ",
+				"status": "incorrect"
+			},
+			{
+				"id": "66Rppdl1m3y",
+				"text": "Les Appalaches ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quels sont les deux plus grands cours d'eau qui traversent notre canton ? (2 réponses)",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "5ajDKqS6QJY",
+				"text": "Le Rhône",
+				"status": "correct"
+			},
+			{
+				"id": "6giCyO4PSSx",
+				"text": "L'Arve",
+				"status": "correct"
+			},
+			{
+				"id": "5cRDO4RvahJ",
+				"text": "Le Rhin",
+				"status": "incorrect"
+			},
+			{
+				"id": "6KJtBharEHt",
+				"text": "Le Danube",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Dans la liste ci-dessous, quels sont les lacs situés au moins partiellement en Suisse ?\n(plusieurs réponses)  ",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "68ObPqWKRCC",
+				"text": "Lac Léman",
+				"status": "correct"
+			},
+			{
+				"id": "627tKBy7CHx",
+				"text": "Lac des Quatre-Cantons",
+				"status": "correct"
+			},
+			{
+				"id": "648EgDhZ3iW",
+				"text": "Lac du Bourget ",
+				"status": "incorrect"
+			},
+			{
+				"id": "67jvoTaOoLd",
+				"text": "Lac des Eaux-Bleues ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Suisse est composée de 26 Etats. Comment les nomme-t-on ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5YMTJ5DdzQb",
+				"text": "Cantons",
+				"status": "correct"
+			},
+			{
+				"id": "5WS9uzIX6bY",
+				"text": "Départements",
+				"status": "incorrect"
+			},
+			{
+				"id": "5pBkTuaFqXC",
+				"text": "Communes ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Comment s'appelle le canton suisse où la langue italienne domine ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5kcffTzs6hq",
+				"text": "Italie ",
+				"status": "incorrect"
+			},
+			{
+				"id": "5UySkwALQ3R",
+				"text": "Tessin ",
+				"status": "correct"
+			},
+			{
+				"id": "5liwNFcQmh6",
+				"text": "Valais ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelle ville suisse tire son nom d’un animal (l’ours), qui figure également sur son drapeau ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6fE8XMoHliB",
+				"text": "Lausanne ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6aJMTAolYgP",
+				"text": "Berne ",
+				"status": "correct"
+			},
+			{
+				"id": "5ravFnl4kme",
+				"text": "Bâle ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La ville fédérale (considérée comme capitale) de la Suisse est :",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5hcsiHX4bOZ",
+				"text": "Berne",
+				"status": "correct"
+			},
+			{
+				"id": "6Ail7p3jsFX",
+				"text": "Bâle",
+				"status": "incorrect"
+			},
+			{
+				"id": "5x1RSrZZOtB",
+				"text": "Zurich",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Combien de communes le canton de Genève compte-t-il ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "68bNOnb9Luf",
+				"text": "10",
+				"status": "incorrect"
+			},
+			{
+				"id": "6PCRvl8amMR",
+				"text": "18",
+				"status": "incorrect"
+			},
+			{
+				"id": "5ruYc1KIliz",
+				"text": "45",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Quelle ville n'est pas située au bord du lac Léman ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "64zPdkhLdI2",
+				"text": "Genève",
+				"status": "incorrect"
+			},
+			{
+				"id": "6DT4yubJLdU",
+				"text": "Montreux",
+				"status": "incorrect"
+			},
+			{
+				"id": "6JhI9rMHJGQ",
+				"text": "Sierre",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Lequel de ces noms est celui d'une commune ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6rpGpKoJMxX",
+				"text": "Plainpalais",
+				"status": "incorrect"
+			},
+			{
+				"id": "6qHlTerbpF2",
+				"text": "Carouge",
+				"status": "correct"
+			},
+			{
+				"id": "62MkAFly6KW",
+				"text": "Eaux-Vives",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelle est l'abréviation du canton de Genève (figurant par exemple sur les véhicules à moteur) ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5erBVo8Qu0V",
+				"text": "GE",
+				"status": "correct"
+			},
+			{
+				"id": "6mc4Fb0a2M1",
+				"text": "GVA",
+				"status": "incorrect"
+			},
+			{
+				"id": "5te31NebxgW",
+				"text": "GEN",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Genève est placée au centre d'un ensemble composé d'un lac, d'un fleuve et d'une rivière.\nComment s'appellent-ils ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6MLKfGISD1J",
+				"text": "Lac Léman, Rhône et Arve  ",
+				"status": "correct"
+			},
+			{
+				"id": "6NmDCsuWleB",
+				"text": "Lac de Genève, Rhin et Allondon",
+				"status": "incorrect"
+			},
+			{
+				"id": "682Y0hpbOJd",
+				"text": "Lac de Genève, Hermance et Venoge",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quel monument est situé dans le parc des Bastions ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5rnHkauLh4a",
+				"text": "La Paroi des Fondateurs",
+				"status": "incorrect"
+			},
+			{
+				"id": "6HJWTKhaxvn",
+				"text": "Le Mur des Réformateurs",
+				"status": "correct"
+			},
+			{
+				"id": "6XVpbdI8iHL",
+				"text": "Le Jet d'eau",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La devise de Genève en latin (\"Post Tenebras Lux\") signifie \"après les ténèbres, la lumière\".",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5rXckmQqf33",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6Kj9l5144w6",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le football, le tennis, le ski, le hockey sont parmi les sports les plus pratiqués en Suisse.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6GYsb9dIm77",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "68RJHilt6PW",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le Grand Théâtre, le Musée Rath et le Conservatoire de Musique sont situés sur une place. Laquelle ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6VhPU78s2nI",
+				"text": "Place de Neuve",
+				"status": "correct"
+			},
+			{
+				"id": "5xYBzgwkNl9",
+				"text": "Place du Molard",
+				"status": "incorrect"
+			},
+			{
+				"id": "6IfJNt9ENQF",
+				"text": "Place du Cirque",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "De combien de cantons la Suisse est-elle composée ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5Z0LXHN8ozs",
+				"text": "32",
+				"status": "incorrect"
+			},
+			{
+				"id": "6aLv8CJ5yYz",
+				"text": "26",
+				"status": "correct"
+			},
+			{
+				"id": "6laWm3mdVWv",
+				"text": "45",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Suisse compte 4 régions linguistiques et 4 langues nationales.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5triQ2iugRe",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6JDRHzQYT6P",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Landsgemeinde est une assemblée populaire durant laquelle on vote à main levée.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5guqJ6DVyLk",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5q3ZCZwpwGI",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Zep, le dessinateur du personnage de \nbande-dessinée “Titeuf”, est genevois.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6rnQQ52gb9D",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5ctvtdwlqJd",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelles sont les éléments qui sont sur le drapeau de Genève ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5zXudGQdEIL",
+				"text": "Un demi-aigle et une clé",
+				"status": "correct"
+			},
+			{
+				"id": "6F4rVIc7ZgM",
+				"text": "Un canard et une épée    ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6n0UcD7uLMz",
+				"text": "Un ours et une arbalète",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quel sportif suisse a marqué le tennis mondial ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6mdywAS3o45",
+				"text": "Rafael Nadal",
+				"status": "incorrect"
+			},
+			{
+				"id": "6q7NVKR4zrt",
+				"text": "Roger Federer",
+				"status": "correct"
+			},
+			{
+				"id": "64nRD3R478P",
+				"text": "Xherdan Shagiri",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelle association n’est pas très présente en Suisse ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5aSRilu5ef0",
+				"text": "Le Touring Club Suisse",
+				"status": "incorrect"
+			},
+			{
+				"id": "6WCDTEig9X9",
+				"text": "Le WWF",
+				"status": "incorrect"
+			},
+			{
+				"id": "6KLh554amjM",
+				"text": "Pro Juventute",
+				"status": "incorrect"
+			},
+			{
+				"id": "61frao5HLth",
+				"text": " Les Restos du Coeur",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Quels sont les pays voisins de la Suisse?\n(plusieurs réponses) ",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "6ooZNBixrWO",
+				"text": "Liechtenstein",
+				"status": "correct"
+			},
+			{
+				"id": "5drxkEg3HxZ",
+				"text": "France",
+				"status": "correct"
+			},
+			{
+				"id": "5iVuQTNqVzn",
+				"text": "Allemagne",
+				"status": "correct"
+			},
+			{
+				"id": "6l7KiLvqidt",
+				"text": "Autriche",
+				"status": "correct"
+			},
+			{
+				"id": "6Pdp0FmCHyE",
+				"text": "Italie",
+				"status": "correct"
+			},
+			{
+				"id": "6ACiRlloXz3",
+				"text": "Belgique",
+				"status": "incorrect"
+			},
+			{
+				"id": "5gbJNQCeq0W",
+				"text": "Espagne",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "L'organisation politique de la Suisse repose sur la séparation des pouvoirs exécutif, législatif et judiciaire.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5oYbgplg8GA",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6kVilgE5neZ",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quel est l'autre nom de la chambre qui représente les cantons (46 députés) ? ",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "6qsuXUO9IVq",
+				"text": "Le Conseil des Etats",
+				"status": "correct"
+			},
+			{
+				"id": "6D7CiWqlMf1",
+				"text": "Le Conseil national",
+				"status": "incorrect"
+			},
+			{
+				"id": "5wUpcYrY0UQ",
+				"text": "L'Assemblée fédérale ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quel est le nom de la chambre qui représente le peuple suisse (200 députés) ? ",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "6aLxx6BmgZm",
+				"text": "Le Conseil national",
+				"status": "correct"
+			},
+			{
+				"id": "5lmxUsSj3rh",
+				"text": "Le Conseil des Etats",
+				"status": "incorrect"
+			},
+			{
+				"id": "6Vqbv050WWM",
+				"text": "L'Assemblée fédérale ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Selon la Constitution genevoise de 2012, à quelle fréquence ont lieu les élections du Parlement genevois, le Grand Conseil ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5xLcAEMFyS8",
+				"text": "2 ans",
+				"status": "incorrect"
+			},
+			{
+				"id": "6jgV8pzoVte",
+				"text": "3 ans",
+				"status": "incorrect"
+			},
+			{
+				"id": "6F3kPHj3msV",
+				"text": "5 ans ",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Selon la Constitution genevoise de 2012, le Conseil d'Etat est élu tous les 5 ans par...",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5pnH5GiPEsP",
+				"text": "Le peuple",
+				"status": "correct"
+			},
+			{
+				"id": "5xG4GLEcQd9",
+				"text": "Le Grand Conseil ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le Conseil fédéral est élu par le peuple.",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6bFHmZ9leOa",
+				"text": "Vrai",
+				"status": "incorrect"
+			},
+			{
+				"id": "6ZbQWwHX5AH",
+				"text": "Faux",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Que doit réunir le peuple pour déposer un référendum ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6OW7jwwaOFf",
+				"text": "Des signatures ",
+				"status": "correct"
+			},
+			{
+				"id": "6T80PS72U9U",
+				"text": "Des bulletins de vote ",
+				"status": "incorrect"
+			},
+			{
+				"id": "5g1zy4a0hVu",
+				"text": "Des fiches d'inscription ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Que peut faire le peuple genevois en utilisant l'initiative ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6JQNFHwjpsm",
+				"text": "Proposer une loi ou des modifications de la Constitution",
+				"status": "correct"
+			},
+			{
+				"id": "5WCqNbURvSF",
+				"text": "Élire le gouvernement",
+				"status": "incorrect"
+			},
+			{
+				"id": "5UsY4hKHpfQ",
+				"text": "Demander une baisse de loyer ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Les étrangers habitant légalement depuis 8 ans dans le canton de Genève ont le droit de vote sur le plan…",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5qLR2EAbl5r",
+				"text": "Fédéral",
+				"status": "incorrect"
+			},
+			{
+				"id": "6Xr0SAZbPmI",
+				"text": "Cantonal ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6HQl3K6D0wf",
+				"text": "Communal ",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Le pouvoir législatif est celui qui...",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6cK8jqLPck9",
+				"text": "Fait et vote les lois : le Parlement",
+				"status": "correct"
+			},
+			{
+				"id": "6kH94pm0umi",
+				"text": "Exécute les lois : le Gouvernement",
+				"status": "incorrect"
+			},
+			{
+				"id": "69FRL9Z15Ke",
+				"text": "Fait respecter les lois : le Tribunal",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le pouvoir exécutif est celui qui...",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "693etLMmMva",
+				"text": "Fait et vote les lois : le Parlement",
+				"status": "incorrect"
+			},
+			{
+				"id": "5Y7xeuhDx9Q",
+				"text": "Exécute les lois : le Gouvernement",
+				"status": "correct"
+			},
+			{
+				"id": "5fCRVAWpg3k",
+				"text": "Fait respecter les lois : le Tribunal",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le pouvoir judiciaire est celui qui...",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6aQGvWsZ0dW",
+				"text": "Fait et vote les lois : le Parlement",
+				"status": "incorrect"
+			},
+			{
+				"id": "5ZEZuC5YLIx",
+				"text": "Exécute les lois : le Gouvernement",
+				"status": "incorrect"
+			},
+			{
+				"id": "6P721zXoreR",
+				"text": "Fait respecter les lois : le Tribunal",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Le Palais fédéral se trouve dans la ville de Berne.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "67lYUWZyX4v",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6QmOx75nmWy",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le Parlement suisse est composé de 2 chambres : le Conseil des Etats, qui représente les cantons, et le Conseil national, qui représente le peuple suisse.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6ilYDGhFsEB",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5ZYNNcpqKzD",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le président de la Confédération est élu pour 5 ans.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6LZFAOyqoNc",
+				"text": "Vrai",
+				"status": "incorrect"
+			},
+			{
+				"id": "6XNapUEt0ls",
+				"text": "Faux",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "La structure politique administrative de la Suisse compte trois niveaux : lesquels ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5wT6UXqvERI",
+				"text": "Neutralité - Egalité - Prospérité",
+				"status": "incorrect"
+			},
+			{
+				"id": "5nduVeYslwx",
+				"text": "Fédéral - Cantonal - Communal ",
+				"status": "correct"
+			},
+			{
+				"id": "6Yxsf3HWYXU",
+				"text": "Démocratie - Monarchie - Oligarchie ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Selon la Constitution genevoise de 2012, le Gouvernement et le Parlement cantonaux sont élus pour :",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5yQP4gFptfM",
+				"text": "7 ans",
+				"status": "incorrect"
+			},
+			{
+				"id": "5y33N993okb",
+				"text": "4 ans",
+				"status": "incorrect"
+			},
+			{
+				"id": "6fLzmayCWBy",
+				"text": "5 ans",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Le Canton de Genève compte…",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6CdBAQMpu3s",
+				"text": "45 communes ",
+				"status": "correct"
+			},
+			{
+				"id": "6cgyVpEr1O9",
+				"text": "25 communes ",
+				"status": "incorrect"
+			},
+			{
+				"id": "5jLPY9RPzP0",
+				"text": "75 communes ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Ville de Genève compte 5 conseillers administratifs et 80 conseillers municipaux (hommes et femmes), tous élus par le peuple.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5UohEahAPiH",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6TpYQygD2BA",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Les traités dits bilatéraux avec l’Europe permettent aux Européens de travailler en Suisse et aux Suisses de travailler ou séjourner en Europe de manière facilitée.  ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6THY3EgI18G",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5jfteMZkbji",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Qu'est-ce qu'un Etat de droit ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5yVNFjMotic",
+				"text": "La séparation des 3 pouvoirs ",
+				"status": "correct"
+			},
+			{
+				"id": "6XeTkl7TbQU",
+				"text": "Les citoyens ont tous les droits",
+				"status": "incorrect"
+			},
+			{
+				"id": "69O21VMdC7h",
+				"text": "L'Etat a tous les droits",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Grâce à l'initiative, le peuple genevois peut proposer de nouvelles lois. ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6WEeVGWl66W",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "62QsRUrV9ds",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le Gouvernement fédéral et le Parlement suisse siègent…",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6OrEczlXba6",
+				"text": "Au Palais fédéral à Berne ",
+				"status": "correct"
+			},
+			{
+				"id": "6GF5ayh73Tt",
+				"text": "Au Palais de Justice à Lausanne ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6oUl00qkG8P",
+				"text": "Au Château de Lucerne",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le Conseil fédéral est composé de…",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5sjFonTIJGu",
+				"text": "9 membres",
+				"status": "incorrect"
+			},
+			{
+				"id": "6ILKw9aba09",
+				"text": "7 membres",
+				"status": "correct"
+			},
+			{
+				"id": "6kb8sc80aND",
+				"text": "11 membres",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La population genevoise élit tous les 4 ans 2 Conseillers aux Etats et 11 Conseillers nationaux.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6GpMR3Slddt",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5X1htoSoQDi",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Contrairement à la pratique en vigueur dans la plupart des autres cantons, le Conseil d’Etat genevois dispose d’un président nommé pour toute la législature.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6iuhmxLpqS5",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5rAnwGmv4Xl",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Dans le canton de Genève, le Gouvernement et le Parlement siègent dans la Vieille Ville. Dans quel bâtiment ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5ft7kkAYfpB",
+				"text": "Dans la cathédrale Saint-Pierre",
+				"status": "incorrect"
+			},
+			{
+				"id": "6ZnjA4nHwUB",
+				"text": "A l'Hôtel-de-Ville       ",
+				"status": "correct"
+			},
+			{
+				"id": "5tNWsnPkmQP",
+				"text": "A la Maison Tavel",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quel niveau institutionnel traite principalement des assurances sociales (AVS, AI, 2e pilier, etc.) ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5qJiIIjt1f9",
+				"text": "Le niveau fédéral",
+				"status": "correct"
+			},
+			{
+				"id": "6MxEGelxA9W",
+				"text": "Le niveau cantonal",
+				"status": "incorrect"
+			},
+			{
+				"id": "6UivXfG6hMu",
+				"text": "Le niveau communal",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Dans quel canton le salon de l'auto a-t-il lieu chaque année ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6LXByqz8GJR",
+				"text": "Vaud",
+				"status": "incorrect"
+			},
+			{
+				"id": "6C5QO5HJNMH",
+				"text": "Genève",
+				"status": "correct"
+			},
+			{
+				"id": "6DJLWvD0wHU",
+				"text": "Zurich ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "A quelle occasion, les Genevois participent à une course en portant des déguisements ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6Jbg93VnD9i",
+				"text": "La “Marmite” de la Course de l’Escalade",
+				"status": "correct"
+			},
+			{
+				"id": "6lMNK6U8pkz",
+				"text": "Le Bol d’Or",
+				"status": "incorrect"
+			},
+			{
+				"id": "6W65oNym4RD",
+				"text": "La finale de la Coupe de Suisse de football",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le combat de reines, c'est... ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5VnT2eVDmpR",
+				"text": "Un combat de vaches",
+				"status": "correct"
+			},
+			{
+				"id": "6ZhgclPqQec",
+				"text": "Un jeu typique ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6FRi7NSWDk5",
+				"text": "Un carnaval ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le cor des Alpes, c'est… ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5Xnf2lbdB5r",
+				"text": "Un instrument de musique ",
+				"status": "correct"
+			},
+			{
+				"id": "5gvrLpJwYbo",
+				"text": "La chaîne de montagnes qui forme les Alpes ",
+				"status": "incorrect"
+			},
+			{
+				"id": "66puUw3OFj2",
+				"text": "Un sommet connu dans les Alpes ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le festival de Montreux est un festival de...",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6pXahLLo7bu",
+				"text": "Musique",
+				"status": "correct"
+			},
+			{
+				"id": "5khU63HTJ5N",
+				"text": "Danse",
+				"status": "incorrect"
+			},
+			{
+				"id": "6KZn6z62IbB",
+				"text": "Théâtre",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quel est le symbole de Genève, mondialement connu et souvent photographié ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6hdlnnxXdFy",
+				"text": "Le Pont du Mont-Blanc",
+				"status": "incorrect"
+			},
+			{
+				"id": "6XXXW6s18we",
+				"text": "Le Jet d'eau ",
+				"status": "correct"
+			},
+			{
+				"id": "5yDLokHmbOU",
+				"text": "Le Salève ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Dans le canton de Genève, il y a, au mois de septembre, un jour férié spécial (on ne travaille pas). Comment s'appelle-t-il ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6PTGzdqLgGm",
+				"text": "Le Jeûne national ",
+				"status": "incorrect"
+			},
+			{
+				"id": "5hwXlLO0nQs",
+				"text": "L'Escalade",
+				"status": "incorrect"
+			},
+			{
+				"id": "5rbXViUib3A",
+				"text": "Le Jeûne genevois ",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "La lutte à la culotte et le lancer de la pierre d’Unspunnen sont des traditions du canton de Genève.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6boczOMIGt6",
+				"text": "Vrai",
+				"status": "incorrect"
+			},
+			{
+				"id": "5elQeNef0XZ",
+				"text": "Faux",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "La longeôle est une saucisse typiquement genevoise.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6TTkEhK7Hlu",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "66laPotj9EY",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Comment s'appelle le grand bateau à voile, construit en 1904 pour transporter des marchandises sur le Lac Léman ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5jKLQME6fef",
+				"text": "L'Eauvivienne ",
+				"status": "incorrect"
+			},
+			{
+				"id": "5ZxNu80QlsI",
+				"text": "La Neptune",
+				"status": "correct"
+			},
+			{
+				"id": "5h0pzg46nFx",
+				"text": "La Mouette ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quand a lieu la Fête nationale suisse ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5ZKul7LqgDy",
+				"text": "12 décembre ",
+				"status": "incorrect"
+			},
+			{
+				"id": "6EAdu10LhOi",
+				"text": "1er août",
+				"status": "correct"
+			},
+			{
+				"id": "5z7sBQ0efW6",
+				"text": "14 juillet",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Les expositions nationales ont lieu, en principe, 4 fois par siècle. La dernière a eu lieu en 2002.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6i2sOx9lply",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6NLt8HJJvTB",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quels sont les deux grands festivals de musique qui ont lieu en Suisse romande ? \n(plusieurs réponses)",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "5j2GWm1hbys",
+				"text": "Paléo Festival",
+				"status": "correct"
+			},
+			{
+				"id": "5vWeCRuW6dc",
+				"text": "Festival de Jazz de Montreux",
+				"status": "correct"
+			},
+			{
+				"id": "5YrVILCYuli",
+				"text": "Carnaval de Bâle",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "A l'Escalade, on chante le \"Cé qu’è lainô\"",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6N3NQhzHBeI",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6XkI5YbM4yV",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Les grands principes qui caractérisent \"L'Esprit de Genève\" sont : neutralité, paix, hospitalité et ouverture au monde.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5kCYyMw9Q11",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5yiu8KHtRZ3",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La tradition associe au Jeûne genevois un plat spécifique. Lequel ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6Up8fYO4W6d",
+				"text": "Une poule au pot",
+				"status": "incorrect"
+			},
+			{
+				"id": "6QL8c7pT7oS",
+				"text": "De la tarte aux pruneaux ",
+				"status": "correct"
+			},
+			{
+				"id": "6gVUca1algw",
+				"text": "Des filets de perche",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Quelle est la fête marquée par un grand feu d'artifice et qui a lieu à Genève chaque été ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6cIiN6YqS6H",
+				"text": "La mi-août",
+				"status": "incorrect"
+			},
+			{
+				"id": "5nMLpwFeaLl",
+				"text": "Les Fêtes de Genève",
+				"status": "correct"
+			},
+			{
+				"id": "5ciK4FMo5xl",
+				"text": "La Bise",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "A l’Escalade, on mange… ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5iB5jWx8cyf",
+				"text": "Une marmite en chocolat",
+				"status": "correct"
+			},
+			{
+				"id": "5eb4SSqd5ic",
+				"text": "Une tarte aux pruneaux",
+				"status": "incorrect"
+			},
+			{
+				"id": "5ixHtxcPVuG",
+				"text": "Une muraille en pain d’épice",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "A quelle période l’Escalade (élément important de l’histoire locale) est-elle fêtée chaque année ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6dUGxPM3URb",
+				"text": "Décembre",
+				"status": "correct"
+			},
+			{
+				"id": "6EuP0dhm1zT",
+				"text": "Juin",
+				"status": "incorrect"
+			},
+			{
+				"id": "6q47XXrn3P7",
+				"text": "Septembre",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Les Suisses atteignent l’un des plus hauts taux de recyclage de déchets en Europe (papier, verre, piles, etc.). ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6r94Z9DgdKo",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5ojLC6NHMEy",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Constitution genevoise comme la Constitution fédérale garantit le respect des convictions religieuses, philosophiques et politiques de chacun.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6fFDfdSfsZU",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "618cL5Zt1r6",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "L’Etat refuse d’enregistrer un mariage… ",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "5bt8swPHOR4",
+				"text": "s’il est imposé à l’un des conjoints (interdiction du mariage forcé)",
+				"status": "correct"
+			},
+			{
+				"id": "6UBVJW1LkK4",
+				"text": "si l’un des futurs époux est déjà marié (interdiction de la polygamie)",
+				"status": "correct"
+			},
+			{
+				"id": "6rfiHG5AoOG",
+				"text": "si l’un des fiancés est mineur ou incapable de discernement",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "A partir de quelle heure les habitants d’un immeuble doivent-ils limiter le bruit par respect des voisins ?",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "6EaqOmdcYOj",
+				"text": "dès 21h00",
+				"status": "correct"
+			},
+			{
+				"id": "63u17xyBKie",
+				"text": "dès 19h30",
+				"status": "incorrect"
+			},
+			{
+				"id": "63X29Fu0kiF",
+				"text": "dès 22h00",
+				"status": "incorrect"
+			},
+			{
+				"id": "5hzweGe9Vl0",
+				"text": "dès 3h00 du matin",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La liberté d'opinion et d'expression est garantie sauf pour...\n(plusieurs réponses) ",
+		"type": "multipleresponse",
+		"choices": [
+			{
+				"id": "6EFmh5MP3Eq",
+				"text": "Encourager les discriminations raciales ou religieuses ",
+				"status": "correct"
+			},
+			{
+				"id": "6RLolL3uYUB",
+				"text": "Nier ou minimiser les génocides ou les crimes contre l'humanité ",
+				"status": "correct"
+			},
+			{
+				"id": "5kMeJ1Bi65k",
+				"text": "Déposer un référendum ou une initiative ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Le mariage n'est pas autorisé pour les couples de même sexe (homosexuels). L'autre institution qui leur donne presque les mêmes droits est... ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5illIaauiWP",
+				"text": "Le partenariat enregistré",
+				"status": "correct"
+			},
+			{
+				"id": "6T60vONAt93",
+				"text": "La cohabitation  ",
+				"status": "incorrect"
+			},
+			{
+				"id": "5d34dwkGazC",
+				"text": "La création d'une association ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La liberté des médias est garantie (interdiction de la censure), sauf si les textes/propos ne respectent pas la protection de la personnalité ou l’interdiction de la diffamation/calomnie. ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6rfeJu6SXgK",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "67LvlFjAsOv",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La liberté de propriété est garantie. Chacun peut disposer de ses biens comme il le souhaite dans le respect des lois. ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6XENhJKZ1lh",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5mcvAd1Rmx5",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "A partir de quel âge les femmes peuvent-elles bénéficier d'une rente vieillesse (AVS) ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "67amkdDM4Ry",
+				"text": "64 ans",
+				"status": "correct"
+			},
+			{
+				"id": "5vOjJQF5CBK",
+				"text": "65 ans",
+				"status": "incorrect"
+			},
+			{
+				"id": "6gPn3g2gPHX",
+				"text": "67 ans",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "A partir de quel âge les hommes peuvent-ils bénéficier d'une rente vieillesse (AVS) ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5aNwSREt1AM",
+				"text": "64 ans",
+				"status": "incorrect"
+			},
+			{
+				"id": "5jZrYy1nZUV",
+				"text": "65 ans",
+				"status": "correct"
+			},
+			{
+				"id": "6pnbszQ76Am",
+				"text": "67 ans",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "L'assurance maladie est obligatoire...",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5c6mXnITHhQ",
+				"text": "Pour toute personne résidant en Suisse",
+				"status": "correct"
+			},
+			{
+				"id": "6CObu6b8Dgo",
+				"text": "Uniquement pour les Suisses",
+				"status": "incorrect"
+			},
+			{
+				"id": "60ilye6ERl6",
+				"text": "Uniquement pour les étrangers",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Les personnes handicapées peuvent bénéficier d'une rente du fait de leur handicap. Cette assurance s'appelle... ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5qsOL8BHxk7",
+				"text": "AI (assurance-invalidité)",
+				"status": "correct"
+			},
+			{
+				"id": "6cBRLp9gMgd",
+				"text": "AVS",
+				"status": "incorrect"
+			},
+			{
+				"id": "5fApCSS4v0p",
+				"text": "RI (revenu d’insertion)",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Chacun et chacune peut choisir librement son métier ou sa profession.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6AeYR888dgY",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6fUGV0GNkUQ",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Tous les travailleurs et employeurs sont obligés d'être membres d'un syndicat. ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6C3xCgk141b",
+				"text": "Vrai",
+				"status": "incorrect"
+			},
+			{
+				"id": "6YgUa2SoYlH",
+				"text": "Faux",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "A quel âge peut-on voter ou être élu en Suisse ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6pwEGJ0Tg0N",
+				"text": "A 16 ans",
+				"status": "incorrect"
+			},
+			{
+				"id": "5Xu5qH5THG8",
+				"text": "A 18 ans",
+				"status": "correct"
+			},
+			{
+				"id": "5vN50tBIR37",
+				"text": "A 21 ans",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Constitution genevoise, comme la Constitution fédérale, interdit les discriminations basées sur l'origine et les convictions.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6hwvOBmLAlu",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6ZCnAJ7m5yO",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Constitution genevoise, comme la Constitution fédérale, interdit les discriminations basées sur la situation sociale.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6SK5gFOMiIN",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6qpDvvgGTpO",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Constitution genevoise, comme la Constitution fédérale, interdit les discriminations basées sur l'orientation sexuelle. ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6MRWWOuH1et",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5a8rbspvgbd",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Constitution genevoise, comme la Constitution fédérale, interdit les discriminations basées sur le handicap. ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5mtkZblpkKc",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5r7Slz6Y6n9",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La Constitution genevoise, comme la Constitution fédérale, garantit l'égalité des droits entre les hommes et les femmes.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6bQ0VpBHGYi",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5WWokkQ1CVG",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La liberté d'expression, d'opinion et de manifestation, de même que la liberté de religion et de croyance, sont garanties en Suisse.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5euqUOUoMpw",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5wvG1IkF6Fl",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Dans quelle langue faut-il communiquer avec l'administration genevoise ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "6CAqE27HSwW",
+				"text": "Dans sa langue maternelle ",
+				"status": "incorrect"
+			},
+			{
+				"id": "5wjiR8cVWXN",
+				"text": "En anglais",
+				"status": "incorrect"
+			},
+			{
+				"id": "6kCy4GJiLvc",
+				"text": "En français ",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Dans un Etat laïc, il y a une totale séparation entre l'Etat et les différentes religions.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6SQGShqYKAr",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6hUWz74kgFU",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La polygamie (le fait d’avoir plus qu’un époux ou une épouse) est interdite en Suisse.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "61JIYl9vjUL",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6DDo9YXJPIc",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Il est interdit en Suisse de forcer quelqu'un à se marier (p.ex. un mariage imposé par les parents, la communauté, etc.). ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5j9Xktl03xM",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5jIgqD7FKX1",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "En Suisse, chacun peut créer une association (3 membres fondateurs suffisent) et participer à ses activités. ",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5d7v1GHyXu4",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "5e7Z7fs2v6b",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "La loi oblige à assurer (y compris après le divorce) tout ou partie des besoins du conjoint et des enfants jusqu’à leur majorité, voire au-delà en cas d’études ou de formation.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "61aftunzuH5",
+				"text": "Faux",
+				"status": "incorrect"
+			},
+			{
+				"id": "5sN4Ql2k1jV",
+				"text": "Vrai",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "Selon la loi, qu'est-on obligé d'annoncer aux autorités ? ",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5ytCf9fiwtF",
+				"text": "Un déménagement",
+				"status": "correct"
+			},
+			{
+				"id": "64Ukcrg1Wl2",
+				"text": "Un voyage de 3 mois à l'étranger",
+				"status": "incorrect"
+			},
+			{
+				"id": "6JhBqEcMiuu",
+				"text": "Un changement de profession ",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Jusqu’à quel âge a-t-on l’obligation d’envoyer ses enfants à l’école (privée ou publique) dans le canton, selon la Constitution genevoise de 2012 ?",
+		"type": "multiplechoice",
+		"choices": [
+			{
+				"id": "5vJu9f1AHmJ",
+				"text": "18 ans",
+				"status": "correct"
+			},
+			{
+				"id": "6PvsN6x8R5Z",
+				"text": "15 ans",
+				"status": "incorrect"
+			},
+			{
+				"id": "61OZN9Y7iXD",
+				"text": "16 ans",
+				"status": "incorrect"
+			}
+		]
+	},
+	{
+		"text": "Parmi les obligations de chacun, il faut citer, pour les hommes suisses, l'obligation de faire son service militaire ou un service de remplacement.",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "6NivA1dWvhK",
+				"text": "Faux",
+				"status": "incorrect"
+			},
+			{
+				"id": "6IwacQEQAXO",
+				"text": "Vrai",
+				"status": "correct"
+			}
+		]
+	},
+	{
+		"text": "En Suisse, chaque habitant qui a cotisé à l'AVS bénéficiera à l'âge de la retraite d'une rente (une somme d'argent qui lui sera versée chaque mois).",
+		"type": "truefalse",
+		"choices": [
+			{
+				"id": "5ijuWuTX6nR",
+				"text": "Vrai",
+				"status": "correct"
+			},
+			{
+				"id": "6mPn7FlUMwk",
+				"text": "Faux",
+				"status": "incorrect"
+			}
+		]
+	}
+]
